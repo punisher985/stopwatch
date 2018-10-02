@@ -10,8 +10,8 @@ body{
   background-color: #232323;
 }
 .easy{
-  margin-left: 550px;
-  margin-top: 40px;
+  margin-left: 551px;
+  margin-top: 41px;
   background:#e43242;
 }
 .hard{
@@ -21,17 +21,17 @@ h1 {
   color:#e43242;
   margin-left: 0px;
   background:white;
-  height: 100px;
+  height: 110px;
 }
 #container{
-  max-width: 600px;
+  max-width: 601px;
   margin: 0  auto;
 }
 #message{
  color:white;
 }
 .inner{
-  margin-left:450px;
+  margin-left:460px;
 }
 .reset{
   color:black;
